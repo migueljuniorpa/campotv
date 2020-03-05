@@ -2,6 +2,8 @@ Instalação
 <br><br>
 1 - Crie um banco de dados com nome "campotv"
 <br><br>
+2 - Dados da conexão com o banco utilizada, usuario: root; senha '';
+<br><br>
 2 - Crie a tabela dentro do banco criando.
 <br>
   CREATE TABLE `campotv`.`news` (
